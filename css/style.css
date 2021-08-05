@@ -4,6 +4,11 @@ body {
     margin: 0 auto;
   }
   
+  header {
+    border-bottom: 5px solid gainsboro;
+
+
+  }
   header div div {
     display: inline-block;
     margin-top: 2em;
